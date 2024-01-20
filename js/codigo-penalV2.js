@@ -552,6 +552,17 @@ var codigoPenal = [
         "valor_fianca": 0,
         "categoria": "Trânsito",
         "definicao": "Estacionar em área proibida ou local que não seja uma vaga de estacionamento, em uma pista de incêndio, bloqueando uma pista aliada ou a menos de 5 metros de um hidrante, o veículo é abandonado. Aplicar DV (pátio)"
+    },
+
+     {
+        "numero": 13.4,
+        "crime": "Assédio",
+        "multa": 100000,
+        "sentenca": 50,
+        "direito_a_fianca": false,
+        "valor_fianca": 0,
+        "categoria": "Trânsito",
+        "definicao": "Estacionar em área proibida ou local que não seja uma vaga de estacionamento, em uma pista de incêndio, bloqueando uma pista aliada ou a menos de 5 metros de um hidrante, o veículo é abandonado. Aplicar DV (pátio)"
     }
 
 ];
