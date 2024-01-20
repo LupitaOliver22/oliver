@@ -555,7 +555,7 @@ var codigoPenal = [
     },
 
      {
-        "numero": 13.4,
+        "numero": 13.5,
         "crime": "Assédio",
         "multa": 100000,
         "sentenca": 50,
